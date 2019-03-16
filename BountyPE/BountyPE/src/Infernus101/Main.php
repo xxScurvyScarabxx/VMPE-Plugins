@@ -268,7 +268,7 @@ class Main extends PluginBase implements Listener{
 		        return true; 
 		    break;
 		   case "about":
-		    $sender->sendMessage("§5Bounty v2.0.0-beta1 by §aZeao. n§eThis plugin was bought to you by §6Void§bFactions§cPE! §aOur server IP: §cvoidfactionspe.ml Port - 19132");
+		    $sender->sendMessage("§5Bounty v2.0.0-beta1 by §aZeao. n§eThis plugin was bought to you by §cChalix§4MC§3! §aOur server IP: §cChalixMC.tk Port - 19132");
 		   return true; 
 		   break;   
 		   default:
