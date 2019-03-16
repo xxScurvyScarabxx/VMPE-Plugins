@@ -1,6 +1,6 @@
-name: VM-Core
+name: Chalix-Core
 main: Core\Loader
 version: 2.0.0
 api: [3.0.0-ALPHA9, 3.0.0-ALPHA10]
 author: VMPE Development Team
-description: A core for VoidMinerPE.
+description: A core for ChalixMC.
