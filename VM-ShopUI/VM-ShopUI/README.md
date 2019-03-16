@@ -1,3 +1,3 @@
 # ShopGUI
-ShopGUI | CustomPotions Added! | *Warning* - Must Have VM-CORE To Enable CustomPotions!
+ShopGUI | CustomPotions Added! | *Warning* - Must Have Chalix-CORE To Enable CustomPotions!
 Link - Updating shortly.
