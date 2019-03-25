@@ -1,3 +1,2 @@
 # ShopGUI
-ShopGUI | CustomPotions Added! | *Warning* - Must Have Chalix-CORE To Enable CustomPotions!
-Link - Updating shortly.
+ShopGUI | CustomSpawners/CoustomHeads Added! | *Warning* - Must Have Chalix-CORE To Work!
